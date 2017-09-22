@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "b462d7c0-cfd7-4ca7-b584-4c9d7beec44f",
+            "Value": {
+                "id": "dfae2956-8530-405f-8205-f61786546664",
+                "resourcePath": "sprites\\sprCrazyFace\\sprCrazyFace.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b6efa44b-57e4-40bf-a9d7-4fef80bd2c61",
             "Value": {
                 "id": "6a79da37-3a79-4f9e-94f6-eed81ea51150",
