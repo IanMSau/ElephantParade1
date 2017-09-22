@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "b3d5c6b6-0131-4f2e-be70-6e0bd8f0f0ba",
+            "Value": {
+                "id": "c3a4620f-b420-43c5-9fd3-ad10bc637df4",
+                "resourcePath": "sprites\\sprButt\\sprButt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b462d7c0-cfd7-4ca7-b584-4c9d7beec44f",
             "Value": {
                 "id": "dfae2956-8530-405f-8205-f61786546664",
