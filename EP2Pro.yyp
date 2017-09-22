@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "52da2a8b-5648-4368-baf3-54408a792205",
-            "Value": {
-                "id": "a52b3514-8545-4f47-ae02-1e1d996cc451",
-                "resourcePath": "sprites\\spr_test\\spr_test.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "760cce01-1855-4a1c-9216-209e679332e6",
             "Value": {
                 "id": "b0b0ccb2-ce44-429c-a783-64e25e4e66fa",
@@ -132,22 +124,6 @@
                 "id": "2d43979e-e473-4be1-b2c7-d12910dfd426",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "b3d5c6b6-0131-4f2e-be70-6e0bd8f0f0ba",
-            "Value": {
-                "id": "c3a4620f-b420-43c5-9fd3-ad10bc637df4",
-                "resourcePath": "sprites\\sprButt\\sprButt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b462d7c0-cfd7-4ca7-b584-4c9d7beec44f",
-            "Value": {
-                "id": "dfae2956-8530-405f-8205-f61786546664",
-                "resourcePath": "sprites\\sprCrazyFace\\sprCrazyFace.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -220,14 +196,6 @@
                 "id": "1980b71c-e11c-4c99-aaf0-1ef5a27a8dc6",
                 "resourcePath": "views\\d002ac17-d9bb-4242-b91b-96afd41c749e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "da691f01-9261-4140-9461-92a1d1e954f6",
-            "Value": {
-                "id": "ac2dff11-8261-4e02-aca8-90ec156c6d81",
-                "resourcePath": "sprites\\bigboy\\bigboy.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
