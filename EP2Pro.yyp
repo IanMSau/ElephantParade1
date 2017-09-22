@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "4ed2ff9d-9918-4b06-b8af-b551956b09e5",
+            "Value": {
+                "id": "0dea0221-ae60-4bc2-ae47-3290604afd9f",
+                "resourcePath": "sprites\\spriteeresrerer\\spriteeresrerer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "503b3337-57e4-41e3-8298-b55f7baa189d",
             "Value": {
                 "id": "bc321c96-b91b-4a46-9507-437bcf489524",
