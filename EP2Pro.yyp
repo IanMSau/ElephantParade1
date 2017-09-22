@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "da691f01-9261-4140-9461-92a1d1e954f6",
+            "Value": {
+                "id": "ac2dff11-8261-4e02-aca8-90ec156c6d81",
+                "resourcePath": "sprites\\bigboy\\bigboy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "d0096e29-aede-4b80-b4d4-6ba314fcf53b",
